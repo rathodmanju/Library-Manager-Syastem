@@ -1,0 +1,22 @@
+.books {
+    margin-top: -23px;
+    background-color: rgba(102, 144, 168, 0.623);
+}
+
+.books_section {
+    display: inline;
+    width: 400px;
+    height: 200px;
+}
+
+.book_card {
+    display: flex;
+    border: 10px solid white;
+    margin: 30px;
+}
+
+.heading h1 {
+    /* text-decoration: underline; */
+    font-weight: bold;
+
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+.main{
+    background-color: rgb(29, 235, 235);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.adminLogin{
+    /* background-color: rgb(208, 216, 221); */
+    padding-right: 50px 60px;
+    margin-right: 20px 20px 20px 20px;
+    margin-top: 50px 10px;
+    background-position: center;
+}

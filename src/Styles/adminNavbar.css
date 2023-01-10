@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+.navba{
+    margin-top: 0;
+    padding-top: 5px;
+    background-color: rgb(183, 113, 113);
+    width: 100%;
+    padding-bottom: 3px;
+}
+
+.new{
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.new h3{
+    padding-right: 480px;
+}
+.one{
+    padding-right: 15px;
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.one:hover{
+    color: khaki;
+}

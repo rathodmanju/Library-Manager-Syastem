@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+}
+
+.landingpage {
+    background-color: blanchedalmond;
+    /* background-image: url("https://i.pinimg.com/originals/11/4a/9c/114a9cf6c9b9a2ddc70436c44709d9fd.jpg"); */
+    height: 100vh;
+    border: 1px solid red;
+}
+
+.background {
+    margin: 50px 300px;
+    height: 500px;
+    width: 1100;
+    /* background-image: url("https://i.pinimg.com/originals/11/4a/9c/114a9cf6c9b9a2ddc70436c44709d9fd.jpg"); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 120px 10px;
+}
+
+.background2 {
+    padding-top: 85px;
+    align-items: center;
+}
+
+.selectLoginType_container {
+    margin-left: 80px;
+    height: 300px;
+    width: 450px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px 70px;
+    box-shadow: 3px 3px red;
+}
+
+.selectLoginType_container h2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.background3 {
+    margin: 30px 80px 0px 30px;
+}
+
+.background3 img {
+    padding-left: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.background3 img #id3 {
+    margin-right: 50px;
+}
+
+.selectLoginType_container #id2 {
+    margin-left: 43px;
+
+
+}
+
+/* 
+#id1,
+#id2 {
+    text-decoration: none;
+    color: black;
+    border: 2px solid green;
+    border-radius: 4px 4px;
+
+
+}
+
+#id1:hover {
+
+    background-color: rgb(151, 110, 222);
+    color: aliceblue;
+    border: 2px solid rgb(247, 255, 5);
+}
+
+#id2:hover {
+    background-color: rgb(151, 110, 222);
+    color: aliceblue;
+    border: 2px solid rgb(247, 255, 5);
+} */
