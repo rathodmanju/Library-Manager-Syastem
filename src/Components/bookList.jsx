@@ -51,7 +51,6 @@ const BookList = () => {
                     </div>
                 ))}
             </div>
-            <BookList />
         </div>
     );
 }
